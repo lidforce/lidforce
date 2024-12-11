@@ -48,7 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/renpy/renpy-original.svg" title="RenPy" alt="RenPy" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+### :fire: My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lidforce&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lidforce)](https://github.com/anuraghazra/github-readme-stats)
